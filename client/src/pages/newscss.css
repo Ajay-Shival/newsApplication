@@ -1,0 +1,13 @@
+.backgroundGrad{
+    background-image: linear-gradient(to bottom right,#3FC1C9 0%,#14585c  100%);
+   min-height:100%;
+  min-width:100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background: size 100%;
+    position: relative;
+    padding-top: 120px;
+    padding-left: 5%;
+  
+  
+  }
